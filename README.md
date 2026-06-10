@@ -92,7 +92,7 @@ AI-powered-Resume-Screening-and-Ranking-System/
    ```
 
 2. **Access the Web Interface**
-   - Open your browser and navigate to `http://localhost:8501`
+   - Open your browser and navigate to `http://localhost:8000`
 
 3. **How to Use**
    - **Enter Job Description**: Paste or type the job description in the text area
@@ -244,11 +244,3 @@ This project is open-source and available for educational and commercial use.
 ## 👨‍💻 Author
 
 **Kumar-509**
-
----
-
-**Made with ❤️ for the hiring community**
-
----
-
-*Last Updated: 2026*
